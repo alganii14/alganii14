@@ -1,27 +1,13 @@
 <!-- Banner Header -->
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=java---
-
-## 🐍 Watch My Contribution Graph Get Eaten by a Snake!
-
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/alganii14/alganii14/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
 
 ## 🎮 Interactive Fun Zone
 
 <div align="center">
 
 ### 🕹️ Let's Play Some Games!
+
+<img src="https://raw.githubusercontent.com/alganii14/alganii14/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 <p>
   <a href="https://github.com/alganii14">
